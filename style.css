@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #222222;
+    font-family: "Architects Daughter";
+    font-size: 25px;
+    min-height: 100vh;
+}
+
+.navbar{
+    background-color: #111111;
+}
+
+.navbar .title{
+    margin-left: 1cm;
+    margin-top: .5cm;
+}
+
+.navbar .title h1{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.navbar .title a{
+    text-decoration: none;
+    color: #f5f5f5;
+}
+
+.navbar .menu{
+    margin-right: 2cm;
+}
+
+.navbar .menu li{
+    list-style-type: none;
+}
+
+.navbar .menu li a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.navbar .menu li a:hover{
+    color: tomato;
+}
+
+.main-container{
+    width: 95%;
+    margin: auto;
+}
+
+.container1{
+    margin-left: 10%;
+    margin-top: 1cm;
+}
+
+.container1 button{
+    font-weight: normal;
+    font-size: large;
+    color: tomato;
+}
+
+.container2{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-left: 5%;
+}
+
+.container3{
+    display: none;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+
+textarea{
+    box-shadow: 10px 10px 24px 0px black;
+    outline: none;
+    border: none;
+    width: 280px;
+    height: 280px;
+    padding: 40px 25px 25px 25px;
+}
+
+#check-icon{
+    position: absolute;
+    right: 17%;
+    top: 5%;
+}
+
+#x-icon{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #111111;
+    color: #555555;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+
+  .footer p{
+      margin-top: .3cm;
+  }
+
+/*how it works*/
+.maintitle h1{
+    color: tomato;
+    margin-left: 1cm;
+    font-family: sans-serif;
+    font-size: larger;
+    margin-top: 1cm;
+    font-weight: bold;
+}
+
+.points{
+    margin-top: 1cm;
+    color: white;
+    font-size: small;
+    font-family: sans-serif;
+    margin-left: 2cm;
+}
+
+.points li a{
+    line-height: 1.5cm;
+    word-spacing: 2px;
+}
+
