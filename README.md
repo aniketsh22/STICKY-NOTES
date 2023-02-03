@@ -28,3 +28,7 @@ Important for keeping reminders, dates, short notes, etc.
 - IF YOU WANT TO DELETE THE SAVED NOTE JUST DOUBLE CLICK ON THAT PARTICULAR NOTE, HENCE THE NOTE WILL BE DELETED
 <img width="960" alt="sn7" src="https://user-images.githubusercontent.com/89505839/171566657-62b60293-9cc8-42bd-888c-ebbc02a8bc9e.png">
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-shrungare/)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anikettt)
